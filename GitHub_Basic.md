@@ -219,4 +219,11 @@ Push를 하는 경우 사실 깃허브의 매번 패스워드를 묻게 되는�
 - `git config --global credentail.helper 'cache --timeout 3600'`: timeout 뒤의 숫자는 초(second)로, 예를들면 3600은 1시간을 의미한다.
 
 
+### 다음 페이지 바로가기
+
+- [[메인페이지]](./README.md)
+-  [[2. 깃허브 브랜치]](./GitHub_Branch.md)
+-  [[3. 깃허브 커밋 되돌리기]](./GitHub_Commit_reset_revert.md)
+-  [[4. 깃허브 포크/클론/풀리퀘스트]](./GitHub_Fork_Clone_Pull_Request.md)
+
 참고자료 및 그림 출처: [[Acka1357's Blog]](https://www.secmem.org/blog/2019/04/10/git_pr/)

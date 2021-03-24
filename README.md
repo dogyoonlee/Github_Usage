@@ -2,26 +2,42 @@
 
 깃허브 기본적인 사용법 정리
 
-## GitHub Basic
+## 1. GitHub Basic
 
-깃허브 기초
+### 깃허브 기초
 
-- [[GitHub Basic]](./GitHub_Basic.md)
+- 깃허브란?
+- 깃허브 기본적인 사용법
+- 로컬 Repository 사용법
+- 원격 Repository 사용법
 
-## GitHub Branch
 
-깃허브 브랜치 사용법
+> 링크: [[1. GitHub Basic]](./GitHub_Basic.md)
 
-- [[GitHub Branch]](./GitHub_Branch.md)
+## 2. GitHub Branch
 
-## GitHub Commit-reset/revert
+- 깃허브 브랜치란?
+- 브랜치 확인
+- 로컬 브랜치 사용법
+- 원격 저장소와 연동 및 사용법
+- 브랜치 병합(Merge)
+- 병합시 충돌(Conflit)
+- 병합(Merge) 취소
 
-깃허브 커밋, 커밋 되돌리기 사용법
+> 링크: [[2. GitHub Branch]](./GitHub_Branch.md)
 
-- [[GitHub Commit-reset/revert]](./GitHub_Commit_reset_revert.md)
+## 3. GitHub Commit-reset/revert
 
-## GitHub Fork/Clone/Pull Request
+- 깃허브 커밋 관리
+- Reset
+- Revert
 
-깃허브 협업 관련 사용법
+> 링크: [[3. GitHub Commit-reset/revert]](./GitHub_Commit_reset_revert.md)
 
-- [[GitHub Fork/Clone/Pull Request]](./GitHub_Fork_Clone_Pull_Request.md)
+## 4. GitHub Fork/Clone/Pull Request
+
+- Clone
+- Fork
+- Pull Request
+
+> 링크: [[4. GitHub Fork/Clone/Pull Request]](./GitHub_Fork_Clone_Pull_Request.md)

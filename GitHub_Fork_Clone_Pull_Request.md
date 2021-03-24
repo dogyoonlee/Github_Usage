@@ -123,4 +123,12 @@
 - Local에서 작업 후 `add`->`commit`->`push`를 통해 내 repository에 작업내용을 **업로드**한다.
 - `Pull request`를 통해 내 작업내용을 원본 repository에 반영해달라고 요청한다.
 
+
+### 다음 페이지 바로가기
+
+- [[메인페이지]](./README.md)
+-  [[1. 깃허브 기초]](./GitHub_Basic.md.md)
+-  [[2. 깃허브 브랜치]](./GitHub_Branch.md)
+-  [[3. 깃허브 커밋 되돌리기]](./GitHub_Commit_reset_revert.md)
+
 참고자료 출처: [[Acka1357's Blog]](https://www.secmem.org/blog/2019/04/10/git_pr/)
