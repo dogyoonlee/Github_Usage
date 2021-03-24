@@ -24,4 +24,4 @@
 
 깃허브 협업 관련 사용법
 
-- [[GitHub Fork/Clone/Pull Request](./GitHub_Fork_Clone_Pull_Request.md)
+- [[GitHub Fork/Clone/Pull Request]](./GitHub_Fork_Clone_Pull_Request.md)
