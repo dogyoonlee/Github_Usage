@@ -41,3 +41,11 @@
 - Pull Request
 
 > 링크: [[4. GitHub Fork/Clone/Pull Request]](./GitHub_Fork_Clone_Pull_Request.md)
+
+## 5. Gitignore
+
+- Gitignore?
+- Gitignore 작성법
+-  Gitignore 사용법
+
+> 링크: [[5. GitHub gitignore]](./GitHub_gitignore.md)

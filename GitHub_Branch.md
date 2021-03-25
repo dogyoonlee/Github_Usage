@@ -316,8 +316,9 @@
 ### 다음 페이지 바로가기
 
 - [[메인페이지]](./README.md)
--  [[1. 깃허브 기초]](./GitHub_Basic.md.md)
--  [[3. 깃허브 커밋 되돌리기]](./GitHub_Commit_reset_revert.md)
--  [[4. 깃허브 포크/클론/풀리퀘스트]](./GitHub_Fork_Clone_Pull_Request.md)
+- [[1. GitHub Basic]](./GitHub_Basic.md)
+- [[3. 깃허브 커밋 되돌리기]](./GitHub_Commit_reset_revert.md)
+- [[4. 깃허브 포크/클론/풀리퀘스트]](./GitHub_Fork_Clone_Pull_Request.md)
+- [[5. 깃허브 Gitignore]](./GitHub_gitignore.md)
 
 참고자료 및 그림 출처: [[갓대희's Blog]](https://goddaehee.tistory.com/274?category=381481)
