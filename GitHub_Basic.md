@@ -27,8 +27,6 @@
 
 - 전체 프로젝트 관리자의 허락 하에 수정된 코드를 업데이트 할 수 있으므로, 소스코드를 공유할 때 꼬이지 않고 편하게 프로젝트 진행이 가능함
 
-
-
 ### How to Use Git?
 
 <p align="center">
@@ -46,25 +44,25 @@
 
 **[ Remote 환경 ]**
 
-- Remote Repository: 원격 서버, 즉 GitHub에서 관리되는 원격 저장소로, 이곳에 파일을 올리면 외부 저장소에 저장이 되는 것으로, Commit 단위로 해당 버전의 프로젝트를 추후 내려받을 수 있음. Local의 파일들이 손상되더라도 원격 저장소의 파일들은 손상되지 않음 
+- Remote Repository: 원격 서버, 즉 GitHub에서 관리되는 원격 저장소로, 이곳에 파일을 올리면 외부 저장소에 저장이 되는 것으로, Commit 단위로 해당 버전의 프로젝트를 추후 내려받을 수 있음. Local의 파일들이 손상되더라도 원격 저장소의 파일들은 손상되지 않음
 
 ## Git 설치
 
 ### OS X의 경우
 
--  `brew install git`을 통해서 쉽게 설치할 수 있다.
--  `brew upgrade git`을 통해서 업데이트
--  `git --version`을 통해서 버전확인
+- `brew install git`을 통해서 쉽게 설치할 수 있다.
+- `brew upgrade git`을 통해서 업데이트
+- `git --version`을 통해서 버전확인
 
-### Ubuntu의 경우: 
+### Ubuntu의 경우:
 
 - `sudo apt-get install git`을 통해서 패키지 리스트를 업데이트
 - `sudo apt install git` 명령어를 이용하여 깃을 설치
--  `git --version`을 통해서 버전확인
+- `git --version`을 통해서 버전확인
 
 ## Git의 활성화
 
-처음 Git을 관리해주려는 최상위 폴더에서 **Git을 활성화** 해주어야 한다. 
+처음 Git을 관리해주려는 최상위 폴더에서 **Git을 활성화** 해주어야 한다.
 
 <p align="center">
 	<img src='./images/2.png'  >
@@ -75,7 +73,7 @@
 
 > 활성화 해주지 않았을 때는 위와 같이 `.git`파일이 보이지 않는다
 
-`git init` 명령어를 통해 Git을 활성화 해주면 
+`git init` 명령어를 통해 Git을 활성화 해주면
 
 <p align="center">
 	<img src='./images/3.png'  >
@@ -201,7 +199,9 @@ GitHub의 원격 저장소를 가보면 업데이트가 된 것을 볼 수 있�
     <em>[ 업데이트된 GitHub 저장소 ]</em>
 </p>
 
-#### 아이디, 패스워드 저장하기 
+> \* Branch 명을 Main으로 변경하고자 할 때 `error: refname refs/heads/master not found` 같은 에러가 발생하는 경우, **\[initial commit\]** 을 하지 않아서 발생하는 이슈이므로, 커밋을 한번 한 후에 변경하면 잘 된다
+
+#### 아이디, 패스워드 저장하기
 
 Push를 하는 경우 사실 깃허브의 매번 패스워드를 묻게 되는데 귀찮다.
 
@@ -217,7 +217,6 @@ Push를 하는 경우 사실 깃허브의 매번 패스워드를 묻게 되는�
 - 계정을 입력한 후에는 정보가 저장되어 입력하지 않아도 된다.
 - 이후 아래 커맨드를 활용하여 캐시 저장 만료시간을 입력해준다.
 - `git config --global credentail.helper 'cache --timeout 3600'`: timeout 뒤의 숫자는 초(second)로, 예를들면 3600은 1시간을 의미한다.
-
 
 ### 다음 페이지 바로가기
 
